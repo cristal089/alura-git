@@ -49,14 +49,16 @@ Ou pode baixar manualmente, deste modo:
 <img align="center" src="https://ik.imagekit.io/cristal089/Captura_de_tela_de_2022-02-07_17-56-46_p7tWsYKPVR-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644268368647">
 </p>
 
-1 - Na [página do repositório]("https://github.com/cristal089/alura-git"), clique em "Code" e depois em "Download ZIP".
+<p align="center">
+Na <a url="https://github.com/cristal089/alura-git">página do repositório</a>, clique em "Code" e depois em "Download ZIP".
+</p>
 
 <p align="center">
 <img align="center" src="https://ik.imagekit.io/cristal089/Captura_de_tela_de_2022-02-07_18-05-08_B_Yrv-cH-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644268587951">
 </p>
 
 <p align="center">
-2 - Clique com o botão direito no arquivo ZIP baixado, extraia-o onde desejar e entre na pasta "alura-git-master".
+Clique com o botão direito no arquivo ZIP baixado, extraia-o onde desejar e entre na pasta "alura-git-master".
 </p>
 
 <p align="center">
@@ -64,7 +66,7 @@ Ou pode baixar manualmente, deste modo:
 </p>
 
 <p align="center">
-3 - Dentro da pasta "alura-git-master", dê dois cliques no arquivo "index.html". A página desenvolvida durante o curso deverá ser aberta no seu navegador padrão.
+Dentro da pasta "alura-git-master", dê dois cliques no arquivo "index.html". A página desenvolvida durante o curso deverá ser aberta no seu navegador padrão.
 </p>
 
 ---
