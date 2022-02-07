@@ -1,5 +1,5 @@
 <h1 align="center"> 
-<img src="https://ik.imagekit.io/cristal089/git_logo_iZF86xo7Q.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644269744321"> 
+<img src="https://ik.imagekit.io/cristal089/1200px-Git-logo.svg_u_ZlvDCKS.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644269899065"> 
 </h1>
 
 ---
