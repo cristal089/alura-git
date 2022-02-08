@@ -50,7 +50,7 @@ Ou pode baixar manualmente, deste modo:
 </p>
 
 <p align="center">
-1 - Na [página do respositório]("https://github.com/cristal089/alura-git"), clique em "Code" e depois em "Download ZIP".
+  1 - Na <a href="https://github.com/cristal089/alura-git">página do respositório</a>, clique em "Code" e depois em "Download ZIP".
 </p>
   
 <p align="center">
