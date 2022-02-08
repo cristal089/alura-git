@@ -6,9 +6,9 @@
 
 # Índice
 
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o repositório](#-como-baixar-o-repositório)
+- [Sobre](#sobre)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Como baixar o repositório](#como-baixar-o-repositório)
 
 ---
 
