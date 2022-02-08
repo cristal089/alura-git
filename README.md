@@ -49,8 +49,10 @@ Ou pode baixar manualmente, deste modo:
 <img align="center" src="https://ik.imagekit.io/cristal089/Captura_de_tela_de_2022-02-07_17-56-46_p7tWsYKPVR-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644268368647">
 </p>
 
+<p align="center">
 1 - Na [página do respositório]("https://github.com/cristal089/alura-git"), clique em "Code" e depois em "Download ZIP".
-
+</p>
+  
 <p align="center">
 <img align="center" src="https://ik.imagekit.io/cristal089/Captura_de_tela_de_2022-02-07_18-05-08_B_Yrv-cH-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644268587951">
 </p>
