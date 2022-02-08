@@ -14,7 +14,7 @@
 
 ## Sobre
 
-`alura-git` é um repositório criado com o intuito de colocar em prática tudo o que foi aprendido nos cursos "Git e Github: Controle e compartilhe seu código" e "Git e Github: Estratégias de ramificação, Conflitos e Pull Requests", da plataforma brasileira de cursos de tecnologia Alura.
+`alura-git` é um repositório criado com o intuito de colocar em prática tudo o que foi aprendido nos cursos "Git e Github: Controle e compartilhe seu código" e "Git e Github: Estratégias de ramificação, Conflitos e Pull Requests", da plataforma brasileira de cursos de tecnologia Alura. Os dois cursos são parte da capacitação da empresa júnior byron.solutions, da Universidade Federal de Itajubá.
 
 ---
 
