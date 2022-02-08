@@ -8,7 +8,7 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o repositório](#-como-baixar-o-repositorio)
+- [Como baixar o repositório](#-como-baixar-o-repositório)
 
 ---
 
