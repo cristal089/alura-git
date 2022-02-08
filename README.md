@@ -39,7 +39,7 @@ $ git clone https://github.com/cristal089/alura-git
 # Entre no diretório
 $ cd alura-git
 
-# Abra o site digitando o nome do seu navegador seguido pelo nome do arquivo index.html
+# Abra o site digitando o nome do seu navegador seguido pelo nome do arquivo index.html. Exemplo: opera index.html
 $ <seuNavegador> index.html
 ```
 
